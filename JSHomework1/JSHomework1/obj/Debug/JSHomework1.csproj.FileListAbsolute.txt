@@ -1,0 +1,6 @@
+C:\Users\Deyan\Desktop\Telerik Academy\JavaScript\JSHomework1\JSHomework1\bin\JSHomework1.dll.config
+C:\Users\Deyan\Desktop\Telerik Academy\JavaScript\JSHomework1\JSHomework1\bin\JSHomework1.dll
+C:\Users\Deyan\Desktop\Telerik Academy\JavaScript\JSHomework1\JSHomework1\bin\JSHomework1.pdb
+C:\Users\Deyan\Desktop\Telerik Academy\JavaScript\JSHomework1\JSHomework1\obj\Debug\JSHomework1.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Desktop\Telerik Academy\JavaScript\JSHomework1\JSHomework1\obj\Debug\JSHomework1.dll
+C:\Users\Deyan\Desktop\Telerik Academy\JavaScript\JSHomework1\JSHomework1\obj\Debug\JSHomework1.pdb
